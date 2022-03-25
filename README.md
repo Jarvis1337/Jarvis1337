@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 
 ![Github](https://komarev.com/ghpvc/?username=Yours-Jarvis&color=orange)
-[![Discord](https://img.shields.io/badge/Discord-Add_to_Jarvis-blueviolet?logo=github)](https://discord.com/users/899961311771897877)
-[![Discord](https://img.shields.io/discord/563087855342190639?label=Discord&logo=github)](https://discord.gg/kVKz4utJ9G)
+[![Discord](https://img.shields.io/badge/Discord-Add_to_Jarvis-blueviolet?logo=discord&logoColor=white)](https://discord.com/users/899961311771897877)
+[![Discord](https://img.shields.io/discord/563087855342190639?label=Discord&logo=discord&logoColor=white)](https://discord.gg/kVKz4utJ9G)
 [![Instagram](https://img.shields.io/badge/Instagram-Your's_Jarvis-ff0000?logo=instagram&logoColor=white)](https://www.instagram.com/_alpesh_01_x_yj/)
     
 <a href="https://discord.com/users/899961311771897877" target="_blank">
