@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Your's_Jarvis-ff0000?logo=instagram&logoColor=white)](https://www.instagram.com/_alpesh_01_x_yj/)
     
 <a href="https://discord.com/users/899961311771897877" target="_blank">
-<img height="80px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/id.png" />
 </a>
 
 - 🔭 ***I’m currently working on [Discord Raid Tools...](https://github.com/Yours-Jarvis/Jarvis-Raid-Tool-Web-Beta)***
