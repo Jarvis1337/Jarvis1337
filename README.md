@@ -5,10 +5,9 @@
 [![Discord](https://img.shields.io/badge/Discord-Add_to_Jarvis-blueviolet?logo=discord&logoColor=white)](https://discord.com/users/899961311771897877)
 [![Discord](https://img.shields.io/discord/563087855342190639?label=Discord&logo=discord&logoColor=white)](https://discord.gg/kVKz4utJ9G)
 [![Instagram](https://img.shields.io/badge/Instagram-Your's_Jarvis-ff0000?logo=instagram&logoColor=white)](https://www.instagram.com/_alpesh_01_x_yj/)
-    
-- ***This is My Discord Alt Account | 24/7 Selfbot Acc... <3...***
+
 <a href="https://discord.com/users/899961311771897877" target="_blank">
-<img height="80px" src="https://discord.c99.nl/widget/theme-2/935856104431292458.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
 </a>
 
 - 🔭 ***I’m currently working on [Discord Raid Tools...](https://github.com/Yours-Jarvis/Jarvis-Raid-Tool-Web-Beta)***
@@ -56,4 +55,4 @@
 
 ----
 
-*Last updated on 9th April 2022 by [Yours-Jarvis](https://github.com/Yours-Jarvis) <3...*
+*Last updated on 18th April 2022 by [Yours-Jarvis](https://github.com/Yours-Jarvis) <3...*
