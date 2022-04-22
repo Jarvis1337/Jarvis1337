@@ -9,12 +9,11 @@
 <a href="https://discord.com/users/899961311771897877" target="_blank">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
 </a>
-
-<b><i>Jackvis is My Discord Alt Account | 24/7 Self-Bot Acc... <3...</i></b>
- 
 <a href="https://discord.com/users/935856104431292458" target="_blank">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/935856104431292458.png" />
 </a>
+
+- 🔥 <b><i>[Jackvis](https://discord.com/users/935856104431292458) is My Discord Alt Account | 24/7 Self-Bot Acc... <3...</i></b>
 
 - 🔭 ***I’m currently working on [Discord Raid Tools...](https://github.com/Yours-Jarvis/Jarvis-Raid-Tool-Web-Beta)***
 
@@ -29,6 +28,8 @@
 - 📫 ***How to reach me [yours.jarvis@gmail.com]()***
 
 - ⚡ ***I'm constantly learning, and I like to share my knowledge <3...***
+
+----
 
 <h3 align="left">You can find me here: ----</h3>
 
@@ -61,4 +62,4 @@
 
 ----
 
-*Last updated on 18th April 2022 by [Yours-Jarvis](https://github.com/Yours-Jarvis) <3...*
+*Last updated on 22th April 2022 by [Yours-Jarvis](https://github.com/Yours-Jarvis) <3...*
