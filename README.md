@@ -9,7 +9,7 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
 </a>
 
-***[Jackvis](https://discord.com/users/935856104431292458) is My Discord Alt Account | 24/7 Self-Bot Acc... <3...***
+- ***[Jackvis](https://discord.com/users/935856104431292458) is My Discord Alt Account | 24/7 Self-Bot Acc... <3...***
 <a href="https://discord.com/users/935856104431292458" target="_blank">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/935856104431292458.png" />
 </a>
