@@ -3,7 +3,7 @@
 
 ![Github](https://komarev.com/ghpvc/?username=1110ff&color=ff0000)
 [![Discord](https://img.shields.io/badge/Discord-Add_to_Jarvis-blueviolet?logo=discord&logoColor=white)](https://discord.com/users/899961311771897877)
-[![Discord](https://img.shields.io/discord/563087855342190639?label=Discord&logo=discord&logoColor=white)](https://discord.gg/kVKz4utJ9G)
+[![Discord](https://img.shields.io/discord/563087855342190639?label=Discord&logo=discord&logoColor=white)](https://discord.gg/gFp5wBAeAr)
 
 <a href="https://discord.com/users/899961311771897877" target="_blank">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
