@@ -9,11 +9,11 @@
 <a href="https://discord.com/users/899961311771897877" target="_blank">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
 </a>
+
+- ***[Jackvis](https://discord.com/users/935856104431292458) is My Discord Alt Account | 24/7 Self-Bot Acc... <3...***
 <a href="https://discord.com/users/935856104431292458" target="_blank">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/935856104431292458.png" />
 </a>
-
-- 🔥 <b><i>[Jackvis](https://discord.com/users/935856104431292458) is My Discord Alt Account | 24/7 Self-Bot Acc... <3...</i></b>
 
 - 🔭 ***I’m currently working on [Discord Raid Tools...](https://github.com/Yours-Jarvis/Jarvis-Raid-Tool-Web-Beta)***
 
@@ -28,19 +28,6 @@
 - 📫 ***How to reach me [yours.jarvis@gmail.com]()***
 
 - ⚡ ***I'm constantly learning, and I like to share my knowledge <3...***
-
-----
-
-<h3 align="left">You can find me here: ----</h3>
-
-***Discord and Instagram:***
-
-[![Discord](https://img.shields.io/badge/Discord-Add_to_Jarvis-blueviolet?logo=discord&logoColor=white)](https://discord.com/users/899961311771897877)
-[![Discord](https://img.shields.io/badge/Discord-Server_1-brightgreen?logo=discord&logoColor=white)](https://discord.gg/gFp5wBAeAr)
-[![Discord](https://img.shields.io/badge/Discord-Server_2-brightgreen?logo=discord&logoColor=white)](https://discord.gg/kVKz4utJ9G)
-[![Discord](https://img.shields.io/badge/Discord-Server_3-brightgreen?logo=discord&logoColor=white)](https://discord.gg/RrABUqmDUF)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Your's_Jarvis-ff0000?logo=instagram&logoColor=white)](https://www.instagram.com/_alpesh_01_x_yj/)
 
 ----
 
